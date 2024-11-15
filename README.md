@@ -1,5 +1,5 @@
 # EX-01 Implementation of Bayesian Networks
-
+## Date : 09/09/24
 ### Aim :
 To create a bayesian Network for the given dataset in Python. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE: 00.00.2024**
 ### Algorithm:
